@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SnapNewsApp/static/css/main.49faa5e3.css",
+    "main.js": "/SnapNewsApp/static/js/main.52c27389.js",
+    "static/js/488.d01864fa.chunk.js": "/SnapNewsApp/static/js/488.d01864fa.chunk.js",
+    "static/media/spinner.gif": "/SnapNewsApp/static/media/spinner.2ed3973d8bde59bf1df2.gif",
+    "index.html": "/SnapNewsApp/index.html",
+    "main.49faa5e3.css.map": "/SnapNewsApp/static/css/main.49faa5e3.css.map",
+    "main.52c27389.js.map": "/SnapNewsApp/static/js/main.52c27389.js.map",
+    "488.d01864fa.chunk.js.map": "/SnapNewsApp/static/js/488.d01864fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.52c27389.js"
+  ]
+}
